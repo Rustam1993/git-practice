@@ -1,0 +1,3 @@
+Name : Rustam
+Age : 25
+Fav color: Yellow
